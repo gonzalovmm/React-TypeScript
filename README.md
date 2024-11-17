@@ -2,7 +2,7 @@
 
 Este proyecto se basa en la carga de productos utilizando React y Bootstrap. Realice un deploy mediante vercel
 ```bash
-https://github.com/gonzalovmm/React-TypeScript
+https://react-type-script-o8qq.vercel.app
 ```
 
 ## Instalación
