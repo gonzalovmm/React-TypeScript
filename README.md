@@ -1,22 +1,25 @@
 # Trabajo Práctico React + TypeScript
 
-Este proyecto se basa en la carga de productos utilizando React y Bootstrap. Realice un deploy mediante vercel 
+Este proyecto se basa en la carga de productos utilizando React y Bootstrap. Realice un deploy mediante vercel
+```bash
+https://github.com/gonzalovmm/React-TypeScript
+```
 
 ## Instalación
 
-1. Clona el repositorio:
-
-bash
-git clone https://github.com/XxFabio24xX/React-TypeScript
-
+1. Clona el repositorio
+```bash
+git clone https://github.com/gonzalovmm/React-TypeScript
+```
 2. Navega al directorio del proyecto:
-bash
+```bash
 cd React-TypeScript
-
+```
 
 3. Instala las dependencias:
-bash
+```bash
 npm install
+```
 
 ## Autor
 
