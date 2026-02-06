@@ -1,9 +1,32 @@
-# Trabajo Práctico React + TypeScript
+# React + TypeScript – Carga de productos (Proyecto académico)
 
-Este proyecto se basa en la carga de productos utilizando React y Bootstrap. Realice un deploy mediante vercel
-```bash
-https://react-type-script-o8qq.vercel.app
-```
+Proyecto académico realizado para practicar desarrollo frontend con React y TypeScript.  
+Incluye una interfaz simple para carga y visualización de productos y un deploy en Vercel.
+
+Deploy: https://react-type-script-o8qq.vercel.app
+
+---
+
+## Descripción
+
+Aplicación web desarrollada con React y TypeScript orientada a:
+- cargar productos mediante un formulario,
+- listar productos cargados,
+- aplicar estilos con Bootstrap.
+
+El objetivo del proyecto fue consolidar conceptos de componentes, estado y tipado en TypeScript.
+
+---
+
+## Tecnologías utilizadas
+
+- React
+- TypeScript
+- Bootstrap
+- Vite (tooling)
+- Vercel (deploy)
+
+---
 
 ## Instalación
 
@@ -20,13 +43,8 @@ cd React-TypeScript
 ```bash
 npm install
 ```
+---
 
 ## Autor
 
-- Gonzalo Van Megroot - Desarrollo de Software
-
-## Tecnologías Utilizadas
-
-- **React**: Biblioteca para la construcción de interfaces de usuario.
-- **TypeScript**: Lenguaje que extiende JavaScript con tipado estático.
-- **Bootstrap**: Biblioteca para el diseño de la interfaz de usuario.
+Gonzalo Van Megroot
